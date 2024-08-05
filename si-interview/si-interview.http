@@ -1,0 +1,6 @@
+@si_interview_HostAddress = http://localhost:5057
+
+GET {{si_interview_HostAddress}}/asxlistedcompanies/BHP
+Accept: application/json
+
+###
