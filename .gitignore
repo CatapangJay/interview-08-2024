@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/si-interview/obj
+/.vs/si-interview
+/.vs/ProjectEvaluation
+/si-interview
+/si-interview.Application/obj
+/si-interview.Domain/obj
+/si-interview.Infrastructure/obj
+/si-interview.Test/obj
